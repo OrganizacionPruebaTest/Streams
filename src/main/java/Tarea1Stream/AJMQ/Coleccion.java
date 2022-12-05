@@ -1,4 +1,4 @@
-package AJMQ;
+package Tarea1Stream.AJMQ;
 
 import Tarea1Stream.Curso;
 

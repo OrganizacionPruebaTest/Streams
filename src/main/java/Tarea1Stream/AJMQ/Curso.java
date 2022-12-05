@@ -1,4 +1,4 @@
-package AJMQ;
+package Tarea1Stream.AJMQ;
 //Dada la siguiente clase
 public class Curso {
     private String titulo;
