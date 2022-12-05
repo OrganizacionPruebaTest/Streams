@@ -1,4 +1,4 @@
-package SBGH;
+package Tarea1Stream.SBGH;
 
 import java.util.ArrayList;
 import java.util.List;

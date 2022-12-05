@@ -1,4 +1,4 @@
-package SBGH;
+package Tarea1Stream.SBGH;
 //Dada la siguiente clase
 public class Curso {
     private String titulo;

@@ -1,4 +1,4 @@
-package KYRA;
+package Tarea1Stream.KYRA;
 
 import java.util.ArrayList;
 import java.util.Comparator;

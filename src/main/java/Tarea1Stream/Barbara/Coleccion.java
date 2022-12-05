@@ -1,10 +1,7 @@
-package Barbara;
+package Tarea1Stream.Barbara;
 
 import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.DoubleSummaryStatistics;
 import java.util.List;
-import java.util.stream.Collectors;
 
 // Y la siguiente coleccion
 public class Coleccion {

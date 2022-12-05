@@ -1,4 +1,4 @@
-package KYRA;
+package Tarea1Stream.KYRA;
 //Dada la siguiente clase
 public class Curso {
     private String titulo;

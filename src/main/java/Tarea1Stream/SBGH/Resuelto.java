@@ -1,4 +1,4 @@
-package SBGH;
+package Tarea1Stream.SBGH;
 
 import java.util.Comparator;
 import java.util.List;

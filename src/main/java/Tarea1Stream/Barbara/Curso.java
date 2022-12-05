@@ -1,4 +1,4 @@
-package Barbara;
+package Tarea1Stream.Barbara;
 //Dada la siguiente clase
 public class Curso {
     private String titulo;
